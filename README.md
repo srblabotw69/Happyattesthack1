@@ -20,11 +20,11 @@ Ensure to change appropriate config values:
 
 # run
 
-cd happyattest  
+1. cd happyattest  
 
 npm start  
 
-open a second terminal  
+2. open a second terminal  
 
 cd vc-server  
 
