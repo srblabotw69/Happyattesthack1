@@ -2,16 +2,21 @@
  
 # installation
 
-cd happyattest  
+1.  cd happyattest  
 
 npm install  
 
 
-cd vc-server  
+2.  cd vc-server  
 
 npm install  
 
+# config
 
+Ensure to change appropriate config values:  
+
+1.  happyattest/.env
+2.  vc-server/.env
 
 # run
 
