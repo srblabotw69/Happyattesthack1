@@ -1,4 +1,5 @@
 # Happyattesthack1
+ Welcome to Happy Attest! This is a one stop shop for creating Ethereum attestations via EAS (Ethereum Attestation Service).  
  
 # installation
 
